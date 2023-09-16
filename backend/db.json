@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "produto": "Teclado",
+            "preço": 149.99
+        },
+        {
+            "id": 2,
+            "produto": "Monitor",
+            "preço": 749.99
+        },
+        {
+            "id": 3,
+            "produto": "Processador Zyren 7",
+            "preço": 1249.99
+        }
+    ]
+}
